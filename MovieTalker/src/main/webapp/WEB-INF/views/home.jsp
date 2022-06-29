@@ -6,7 +6,7 @@
 <title>Home</title>
 </head>
 <body>
-    <h1>aws lightsail과 연동중</h1>
+    <h1>aws lightsail & Github 연동</h1>
  
     <table>  
         <thead>
