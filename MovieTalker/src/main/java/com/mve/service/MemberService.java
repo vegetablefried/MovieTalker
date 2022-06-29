@@ -19,6 +19,6 @@ public interface MemberService {
     // 회원출력
     public List<MemberVO> selectMember() throws Exception;
      
-     
-	
+        
+	 
 }
